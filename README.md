@@ -68,7 +68,8 @@ Profit grew consistently from **$25,623 in 2014** to **$93,439 in 2017**, with a
 - **Technology** is the top-performing product category.
 
 This dashboard serves as a critical tool for stakeholders to monitor business performance, uncover growth opportunities, and refine strategies.
-_________________________________________________________________________________________________________________________________________________
+
+
 
 ## Profit Insights Dashboard
 
