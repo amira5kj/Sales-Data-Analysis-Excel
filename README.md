@@ -1,15 +1,15 @@
 # Sales-Data-Analysis-Excel
 This project showcases the creation of insightful dashboards that analyze sales and profit data across various dimensions. 
 
---
+
 
 ## Dashboards description 
----
+
 ## Sales Dashboard Overview
 
 This dashboard provides a comprehensive summary of KPIs and vital insights, enabling data-driven decision-making across revenue, profit, and order trends from 2014 to 2017.
 
----
+
 
 ### Key Metrics & KPIs
 
@@ -18,13 +18,11 @@ This dashboard provides a comprehensive summary of KPIs and vital insights, enab
 - **Orders:** 4,534 (↑ 37.21%)
 - **Average Order Value:** $445.61 (↓ 1.46%)
 - **COGS (Cost of Goods Sold):** $1,484,822 (↑ 36.27%)
----
 
-### Sales Trend
+
+### 2017 Sales Trend 
 
 A year-long view of monthly sales reveals peak performance in **October ($118.45K)** and the lowest in **February ($20.30K)**. This helps identify seasonal patterns and strategic planning opportunities.
-
----
 
 ### Regional and Shipping Performance
 
@@ -40,13 +38,9 @@ A year-long view of monthly sales reveals peak performance in **October ($118.45
 - **First Class:** $273.0K
 - **Same Day:** $103.6K
 
----
-
 ### Year-over-Year (YoY) Profit
 
 Profit grew consistently from **$25,623 in 2014** to **$93,439 in 2017**, with a notable 140% increase in 2015 and 33% in 2016.
-
----
 
 ### Sales vs Profit Analysis
 
@@ -66,8 +60,6 @@ Profit grew consistently from **$25,623 in 2014** to **$93,439 in 2017**, with a
 - **Office Supplies:** $634.27K  
 - **Furniture:** $659.59K  
 
----
-
 ### Insights
 
 - The **West** region leads in both revenue and growth rate.
@@ -77,13 +69,9 @@ Profit grew consistently from **$25,623 in 2014** to **$93,439 in 2017**, with a
 
 This dashboard serves as a critical tool for stakeholders to monitor business performance, uncover growth opportunities, and refine strategies.
 
----
-
 ## Profit Insights Dashboard
 
 This dashboard offers a detailed breakdown of profitability across key business dimensions — including region, city, product category, and individual product performance — to uncover the most and least profitable areas of operation.
-
----
 
 ### Regional Performance
 
@@ -101,7 +89,6 @@ This dashboard offers a detailed breakdown of profitability across key business 
 - **Columbus:** $5.6K (↑ 184.73%) — sharpest % increase
 - Several cities also showed negative or no change (e.g. Springfield)
 
----
 
 ### Product Analysis
 
@@ -117,16 +104,12 @@ This dashboard offers a detailed breakdown of profitability across key business 
 - **Electric Binding System:** $3.7K (↑ 105.97%)
 - Some products had **0% growth** or even **negative profit change**, e.g. *Comb Binding Machine* (↓ 16.44%)
 
----
-
 ### Insights
 
 - **New York and California** remain the most profitable states.
 - **Seattle, Delaware, and Columbus** have shown rapid growth in profits.
 - **Office equipment**, especially **copiers and printers**, dominates product-level profit margins.
 - A few products underperform and may require pricing or sales strategy review.
-
----
 
 **Time Period Covered:** 2014 - 2017  
 
