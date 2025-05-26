@@ -4,11 +4,11 @@ This project showcases the creation of insightful dashboards that analyze sales 
 
 
 ## Full Project Process
-Data Collection: Gathered sales data from the database.
-Data cleaning and Transformation: merging the 4 sales sheets for the 4 differnet years.
-Data Modeling: Structured data into a star schema for efficient querying and analysis.
-Data Analysis: Performed descriptive statistics and trend analysis.
-Data Visualization: Created interactive dashboards using Power BI.
+-Data Collection: Gathered sales data from the database.
+-Data cleaning and Transformation: merging the 4 sales sheets for the 4 differnet years.
+-Data Modeling: Structured data into a star schema for efficient querying and analysis.
+-Data Analysis: Performed descriptive statistics and trend analysis.
+-Data Visualization: Created interactive dashboards using Power BI.
 
 ## Sales Dashboard Overview
 
