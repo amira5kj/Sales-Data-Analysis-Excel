@@ -7,7 +7,7 @@ This documentation show the process and steps for the creation of insightful das
 - **Data cleaning and Transformation**: importing sales spreadsheets from 2014 to 2017 and combining them together.
 - **Data Modeling**: Turing the data into a star schema after the normalization process.
 - **Data Analysis**: Performed descriptive statistics and trend analysis.
-- **Data Visualization**: Created interactive dashboards using Excel
+- **Data Visualization**: Created interactive dashboards using Excel.
 
 ## Sales Dashboard Overview
 
