@@ -9,16 +9,16 @@ This documentation show the process and steps for the creation of insightful das
 - **Data Analysis**: Performed descriptive statistics and trend analysis.
 - **Data Visualization**: Created interactive dashboards using Excel.
 
+  <img width="1593" height="857" alt="image" src="https://github.com/user-attachments/assets/042cfe92-828d-4f55-a14e-495f1a922100" />
+
 ## Sales Dashboard Overview
 
 This dashboard provides a comprehensive summary of KPIs and vital insights, across revenue, profit, and order trends from 2014 to 2017.
 
+![Overview](https://github.com/user-attachments/assets/e7605e6f-78e1-49e2-a8a6-f0e0a4061d46)
 
 
 
-### Year-over-Year (YoY) Profit
-
-Profit grew consistently from **$25,623 in 2014** to **$93,439 in 2017**, with a notable 140% increase in 2015 and 33% in 2016.
 
 ### Insights
 
@@ -33,6 +33,9 @@ This dashboard serves as a critical tool for stakeholders to monitor business pe
 ## Profit Insights Dashboard
 
 This dashboard offers a detailed breakdown of profitability across key business dimensions — including region, city, product category, and individual product performance — to uncover the most and least profitable areas of operation.
+
+
+![Profit insights](https://github.com/user-attachments/assets/1b49c211-13f7-4661-a7ec-f82e217f6588)
 
 
 ### Insights
