@@ -1,6 +1,8 @@
 # Sales_Analysis_Excel
 This documentation show the process and steps for the creation of insightful dashboards that analyze sales and profit data across various dimensions. 
 
+## About Dataset
+
 
 ## Full Project Process
 
