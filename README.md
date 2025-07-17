@@ -2,9 +2,9 @@
 This documentation show the process and steps for the creation of insightful dashboards that analyze sales and profit data across various dimensions. 
 
 ## About Dataset
-The dataset contains sales records for a small shop, it consist of four files each have the same unormalized table. //
+The dataset contains sales records for a small shop, it consist of four files each have the same unormalized table. ␣␣
 **Dataset columns** 
-Order ID, Order Date,	Ship Date, Ship Mode,Sales,	Quantity, Discount and Profit.//
+Order ID, Order Date,	Ship Date, Ship Mode,Sales,	Quantity, Discount and Profit.␣␣
 Customer ID, Customer Name and Segment.//
 Country,	City,	State,	Postal Code and	Region.//
 Product ID,	Category,	Sub-Category and Product Name.//
