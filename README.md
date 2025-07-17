@@ -50,3 +50,4 @@ This dashboard offers a detailed breakdown of profitability across key business 
 
 ![Profit insights](https://github.com/user-attachments/assets/1b49c211-13f7-4661-a7ec-f82e217f6588)
 
+<img width="1593" height="857" alt="image" src="https://github.com/user-attachments/assets/042cfe92-828d-4f55-a14e-495f1a922100" />
