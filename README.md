@@ -3,7 +3,7 @@ This documentation show the process and steps for the creation of insightful das
 
 ## About Dataset
 The dataset contains sales records for a small shop, it consist of four files each have the same unormalized table.<br>
-**Dataset columns** 
+**Dataset columns** <br>
 Order ID, Order Date,	Ship Date, Ship Mode,Sales,	Quantity, Discount and Profit.<br>
 Customer ID, Customer Name and Segment.<br>
 Country,	City,	State,	Postal Code and	Region.<br>
